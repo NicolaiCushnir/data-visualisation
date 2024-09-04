@@ -1,7 +1,9 @@
 ![image](img/a1.png)
 
-### data-visualization
-* D3JS
+### Learn Data-Visualization :
+* [D3-JS](docs/D3-JS.md)
+* [SVG](docs/SVG.md)
+* [Tasks](docs/TASKS.md)
 * ChartJS
 * Three.js - Cu această bibliotecă se lucrează pe partea de back-end adica Node.js, nu și javascript.
 * Echarts. ...
@@ -9,7 +11,6 @@
 * Metric-Graphics. ...
 * Recharts. ...
 * Raphael.
-* SVG
 
 Diferite grafice:
 
