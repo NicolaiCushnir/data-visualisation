@@ -14,5 +14,9 @@
 * [ChartJS](docs/CHARTJS.md)
 * [Highcharts.js](docs/)
 
+### Others :
+* [Canvas](#)
+* [Phaser.js](#)
+
 ### Extern links :
 * [Best Data Visualization JavaScript Libraries to Handle Large Data Sets](https://www.xenonstack.com/blog/data-visualization-with-javascript)
